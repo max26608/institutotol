@@ -1,0 +1,135 @@
+body {
+  max-width: 1366px;
+
+}
+
+.container {
+  width: 1200px;
+  height: 500px;
+  background-color: aqua;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-image: url(291-lev-nikolaievich-tolstoi-201401-06.jpg);
+background-size: cover;
+
+}
+
+.container h1 {text-align: center;
+  font-size: 30px;
+  color: red;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ }
+
+.lista {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.lista li {
+  
+  color: blue;
+  font-size: larger;
+ text-align: center;
+ display: inline;
+ margin-right: 100px;
+
+
+  
+}
+
+
+
+
+
+
+
+ .container p {
+color: aqua;
+width: 1000px;
+height: 200px;
+margin: auto;
+font-size: larger;
+font-family: cursive;
+
+
+
+
+ }
+.containerdos
+ {
+  width: 1200px;
+  height: 500px;
+  background-color: blue;
+  margin: auto;
+  margin-bottom: 20px;
+  background-image: url(instituto\ adentro.png);
+background-size: cover
+}
+
+.containerdos h2 {
+  text-align: center;
+ 
+  font-size: 30px;
+  font-family: cursive;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  color: red;
+}
+.cursos {
+  width: 500px;
+  height: 200px;
+  
+   margin: auto;
+}
+.cursos h3 {
+  color: blue;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: larger;
+  font-family: cursive;
+}
+.cursos p {
+  text-align: center;
+  font-size: larger;
+  font-family: cursive;
+  color: red
+}
+
+
+
+
+
+.containertres {
+  width: 1200px;
+  height: 500px;
+  background-color: brown;
+  margin: auto;
+  background-image: url(plaza.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+
+}
+.containertres h4 {
+  color: red;
+  text-align: center;
+  font-size: large;
+  padding-top: 20px;
+  margin-bottom: 20px;
+
+}
+.containertres p {
+  text-align: center;
+  font-size: large;
+  font-family: cursive;
+  color: red
+}
+
+
+
+
+
+
+
+
+@import url(media.less);
